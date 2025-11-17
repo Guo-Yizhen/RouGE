@@ -44,7 +44,8 @@ The folder path should be
 
 #### Testing
 
-The pretrained weights of RouGE can be found in ./ckpt/train/all/RouGE_from_10/Weights_for_RouGE
+The pretrained weights of RouGE can be found in ./ckpt/train/
+Our pretrained ckpt will be released soon.
 
 To test RouGE's performance, run
 
@@ -57,3 +58,4 @@ python mAP_cal.py
 The base model EfficientSAM and its code are from https://github.com/yformer/EfficientSAM
 
 Thanks [Yunyang Xiong](https://github.com/yformer) and other authors for their excellent work~
+
